@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **krishanlk/krishanlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,10 +34,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on *Web Development*
 - 🤔 I’m looking for with *Internships*
 - 😄 Pronouns : *He/Him/His*
-- 📫 How to reach me *ppulasithi@gmail.com*
+- 📫 How to reach me *k2dot.krishan@gmail.com*
 
 &nbsp;
-<p align="center"> <a href="https://twitter.com/pulasithi" target="blank"><img src="https://img.shields.io/twitter/follow/pulasithi?logo=twitter&style=for-the-badge" alt="pulasithi" /></a> </p>
+<p align="center"> <a href="https://twitter.com/krishankanishk5" target="blank"><img src="https://img.shields.io/twitter/follow/pulasithi?logo=twitter&style=for-the-badge" alt="pulasithi" /></a> </p>
 
 
 
