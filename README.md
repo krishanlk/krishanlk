@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me *k2dot.krishan@gmail.com*
 
 &nbsp;
-<p align="center"> <a href="https://twitter.com/krishankanishk5" target="blank"><img src="https://img.shields.io/twitter/follow/pulasithi?logo=twitter&style=for-the-badge" alt="pulasithi" /></a> </p>
+<p align="center"> <a href="https://twitter.com/krishankanishk5" target="blank"><img src="https://img.shields.io/twitter/follow/krishankanishk5?logo=twitter&style=for-the-badge" alt="krishankanishk5" /></a> </p>
 
 
 
