@@ -87,14 +87,14 @@ Here are some ideas to get you started:
 ## 📈 My GitHub Stats
 
 ##### 🔥 My contribution graph
- ![Pasan's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=PasanPula&theme=react-dark&hide_border=true&area=true)
+ ![krishanlk's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=krishanlk&theme=react-dark&hide_border=true&area=true)
 
 
 ##### 🔥 My stats
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasanpula&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pasanpula" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasanpula&show_icons=true&theme=tokyonight&locale=en" alt="pasanpula" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanlk&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="krishanlk" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishanlk&show_icons=true&theme=tokyonight&locale=en" alt="krishanlk" /></p>
 
 ##### 🔥 My contribution streak
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasanpula&theme=dark" alt="pasanpula" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishanlk&theme=dark" alt="krishanlk" /></p>
 
 &nbsp;
 ## 🔗Connect with me
