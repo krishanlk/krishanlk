@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 - 👨🏽‍💻 Newbie Developer
-- 🌱 I’m currently learning *React Native*
+- 🌱 I’m currently learning *React*
 - 👯 I’m looking to collaborate on *Web Development*
 - 🤔 I’m looking for with *Internships*
 - 😄 Pronouns : *He/Him/His*
